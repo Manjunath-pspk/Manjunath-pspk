@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Manjunath!</h1>
-<h3 align="center">Data Analyst | Power BI | Python | SQL | Excel |
+<h3 align="center">💻 Data Analyst | Power BI | Python | SQL | Excel |
 🎓 B.Tech (Computer Science and Engineering).
 
 ---
 
 ## 🧠 About Me
 I’m a **Data Analytics Enthusiast** passionate about transforming raw data into meaningful insights.  
-My focus is on leveraging tools like **Power BI**, **Python**, and **SQL** to design dashboards, analyze trends, and support data-driven decisions.  
-I also enjoy working on **web development projects**, integrating data with interactive interfaces.
+My focus is on leveraging tools like **Power BI**, **Python**, **Excel**  and **SQL** to design dashboards, analyze trends, and support data-driven decisions.  
 
 ---
 
@@ -35,12 +34,6 @@ I also enjoy working on **web development projects**, integrating data with inte
   *End-to-end retail data analytics project using Python and SQL for ETL, data cleaning, and insight generation.*
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manjunath-pspk&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath-pspk&theme=default" />
-</p>
 
 ---
 
